@@ -93,6 +93,7 @@ __See something missing?__ Any list of XMPP servers, clients or libraries will, 
 | Miranda NG                     | Windows                                                             | miranda-ng.org                  |
 | Monal IM                       | Mobile (iOS)                                                        | monal.im                        |
 | Mozilla Thunderbird            | Linux / OSX / Windows                                               | mozilla.org/thunderbird         |
+| Movim            | Browser                                               | movim.eu         |
 | OctroTalk                      | Mobile                                                              | octro.com                       |
 | OneTeam                        | Linux / OSX / Windows                                               | oneteam.im                      |
 | OneTeam for iPhone             | Mobile (iOS)                                                        | oneteam.im                      |
